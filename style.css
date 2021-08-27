@@ -1,0 +1,22 @@
+.navbar {
+  text-align: center;
+  border: 3px solid green;
+  justify-content: center;
+  background-color: darkgoldenrod;
+}
+
+#searchfield {
+  background-color: darkkhaki;
+}
+
+#results {
+  background-color: gray;
+}
+#history {
+  background-color: pink;
+}
+#fiveday {
+  background-color: indianred;
+}
+
+
